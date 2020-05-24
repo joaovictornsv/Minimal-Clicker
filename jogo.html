@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Clicker Paraguai</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        JOGO DE CLICAR RUIM
+    </header>
+    <section id="corpo">
+        <div id="nivel">
+            <p id="upgrade_cookie"><span id="nome_cookie">Cookie de Maizena</span>
+            <input id="upgrade" type="button" value="Upgrade" onclick="upgrade()" disabled>
+            </p>
+        </div>
+        <div id="cookie">
+            <img src="cookie_lv1.png" alt="Foto do cookie" id="foto" onclick="clicar()" draggable="false">
+        </div>
+        <div id="dados">
+            <p id="dados_dinamicos"><span id="quant">0</span> cookies | <span id="cont">1</span> por clique
+            <input id="botao_1clique"type="button" value="+1 (50 cookies)" onclick="comprar_1clique()" disabled>
+
+            <p id="dados_fixos">Total: <span id="total_cookies">0</span> cookies</p>
+        </div>
+    </section>
+    <footer>
+        JV fez, top
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>

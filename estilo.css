@@ -1,0 +1,116 @@
+body {
+    margin-top: 40px;
+    font-family: 'Minecraft';
+    background-image: url(wallpaper.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    font-size: 32px;
+    text-align: center;
+    width: 512px;
+    margin: auto;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+    width: 512px;
+    margin:  20px auto 0px auto;
+}
+
+section {
+    background-image: url(table.png);
+    height: 457px;
+    width: 512px;
+    margin: 20px auto 0px auto;
+}
+
+div#dados {
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+p#upgrade_cookie {
+    position: relative;
+    text-align: center;
+    top: 30px;
+    color: white;
+    margin: 0px;
+}
+
+input#upgrade {
+    background-color: rgb(194, 194, 194);
+    border-radius: 8px;
+    height: 22px;
+}
+
+div#dados > p#dados_dinamicos {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+div#dados > p#dados_fixos {
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+input {
+    font-size: 16px;
+    font-family: 'Minecraft';
+    height: 30px;
+}
+
+div#cookie {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    top: 30px;
+    margin: 0px auto;
+    user-select: none;
+}
+
+img#foto {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 170px;
+    height: 170px;
+    cursor: pointer;
+    transition: .1s;
+}
+
+img#foto:hover {
+    width: 190px;
+    height: 190px;
+    transition: .1s;
+}
+
+span#add {
+    position: absolute;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+    font-size: 25px;
+    animation: up 1s ease-out infinite;
+    z-index: 999;
+    cursor: pointer;
+    user-select: none;
+    pointer-events: none;
+}
+
+@keyframes up {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(-40px);
+        opacity: 0;
+    }
+}
