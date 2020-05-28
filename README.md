@@ -3,7 +3,7 @@
 		<img src="https://i.imgur.com/WRdcjLM.png" width="300px"><br/>
 		Mini Clicker
 	</h1>
-	**Game based on Cookie Clicker**
+	<h4>Game based on Cookie Clicker</h4>
 	<p>
 	<img src="https://img.shields.io/github/languages/top/joaovictornsv/mini-clicker-js">
 	<img src="https://img.shields.io/github/languages/count/joaovictornsv/mini-clicker-js">
@@ -27,7 +27,9 @@
 
 ## :pen: Créditos
 
-:framed_picture: Wallpaper by [kirokaze]([https://www.deviantart.com/kirokaze](https://www.deviantart.com/kirokaze))
+* :framed_picture: Wallpaper by [kirokaze]([https://www.deviantart.com/kirokaze](https://www.deviantart.com/kirokaze))
+
+
 ## :memo: Licença
   
-:balance_scale: MIT License - [Sobre](https://github.com/joaovictornsv/tcc-peg/blob/master/LICENSE)
+* :balance_scale: MIT License - [Sobre](https://github.com/joaovictornsv/tcc-peg/blob/master/LICENSE)
