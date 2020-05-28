@@ -20,16 +20,18 @@
 
 ## :telescope: Tecnologias
 
-* [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-* [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 
 
 ## :pen: Créditos
 
-* :framed_picture: Wallpaper by [kirokaze]([https://www.deviantart.com/kirokaze](https://www.deviantart.com/kirokaze))
+- :framed_picture: Wallpaper by [kirokaze](https://www.deviantart.com/kirokaze)
+
 
 
 ## :memo: Licença
   
-* :balance_scale: MIT License - [Sobre](https://github.com/joaovictornsv/tcc-peg/blob/master/LICENSE)
+- :balance_scale: MIT License - [Sobre](https://github.com/joaovictornsv/tcc-peg/blob/master/LICENSE)
