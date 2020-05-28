@@ -10,7 +10,7 @@ var prox_upgrade = 2
 
 function upgrade() {
     var img = document.getElementById('foto')
-    img.src = `cookie_lv${prox_upgrade}.png`
+    img.src = `images/cookie_lv${prox_upgrade}.png`
     switch (prox_upgrade){
         case 2 :
             lv = 2
@@ -50,18 +50,18 @@ function clicar() {
         button_upgrade.style.backgroundColor = 'gold'
         button_upgrade.style.cursor = 'pointer'
     }
-    add(event)
+    add(event, cookies_click)
 }
 
 
-function add(evt) {
+function add(evt, num) {
     var div = document.getElementById('corpo')
     var um = document.createElement('span')
     var x = evt.clientX - 12
     var y = evt.clientY - 12
     um.getAttribute('id')
     um.id = 'add'
-    um.innerText = '+1'
+    um.innerText = `+ ${String(num)}`
     um.style.left = x + 'px'
     um.style.top = y + 'px'
     div.appendChild(um)

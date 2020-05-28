@@ -1,7 +1,7 @@
 body {
     margin-top: 40px;
     font-family: 'Minecraft';
-    background-image: url(wallpaper.gif);
+    background-image: url(images/wallpaper.gif);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -23,7 +23,7 @@ footer {
 }
 
 section {
-    background-image: url(table.png);
+    background-image: url(images/table.png);
     height: 457px;
     width: 512px;
     margin: 20px auto 0px auto;
