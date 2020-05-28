@@ -18,20 +18,20 @@
 </div>
 
 
-## :telescope: Tecnologias
+### :telescope: Tecnologias
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+---
 
-
-## :pen: Créditos
+### :pen: Créditos
 
 - :framed_picture: Wallpaper by [kirokaze](https://www.deviantart.com/kirokaze)
 
+---
 
-
-## :memo: Licença
+### :memo: Licença
   
 - :balance_scale: MIT License - [Sobre](https://github.com/joaovictornsv/tcc-peg/blob/master/LICENSE)
