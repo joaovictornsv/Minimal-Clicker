@@ -1,6 +1,5 @@
 <div align="center">
 	<h1>
-		<img src="https://i.imgur.com/WRdcjLM.png" width="300px"><br/>
 		Mini Clicker
 	</h1>
 	<h4>Game based on Cookie Clicker</h4>
