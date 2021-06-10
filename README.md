@@ -28,12 +28,8 @@
 - :framed_picture: Wallpaper by [kirokaze](https://www.deviantart.com/kirokaze)
 
 ---
-<div  align="center">
 
-### :pencil2: Author
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/joaovictornsv"><img src="https://github.com/joaovictornsv.png" width="100px;" alt="Profile"/><br /><sub><b>João Victor</b></sub></a><br /><a href="https://github.com/joaovictornsv" title="Code">💻</a></td>
-  <tr>
-</table>
- </div>
+<div>
+  <img align="left" src="https://i.imgur.com/ufUYAFh.png" width=35 alt="Profile"/>
+  <sub>Made with 💙 by <a href="github.com/joaovictornsv">João Victor</a></sub>
+</div>
